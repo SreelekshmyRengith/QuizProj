@@ -1,0 +1,50 @@
+a {
+    text-decoration: none; /* Remove underline */
+    color: inherit; 
+   }
+
+   .nav_bar_prop{
+       background-color: black;
+   }
+   .login{
+       position: relative;
+       left: 800px;
+   }
+   .signup{
+       position: relative;
+       left: 810px;
+   }
+   .h1_text_decor{
+       font-weight: bold;
+   }
+   .login_card{
+       height: 270px;
+       width: 500px;
+       position: relative;
+       top:200px;
+       background-color: teal;
+       opacity: 0.3;
+       padding: 20px;
+   }
+   .txt_decor{
+       color: white;
+       font-weight: bold;
+       opacity: 1;
+   }
+   .txt_bx{
+       width: 100%;
+   }
+   .sbt_btn{
+       position: relative;
+       top: 10px;
+   }
+   .txt_input{
+       color: black;
+   }
+   .ctr_2{
+       position: relative;
+       top: 200px;
+       display: flex;
+       justify-content: center; /* Center horizontally */
+       align-items: center; /* Center vertically */
+   }
